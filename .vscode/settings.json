@@ -1,6 +1,7 @@
 {
     "files.exclude": {
         "**/__pycache__": true,
-        "**/venv": true
+        "**/venv": true,
+        "__init__.py":true
     }
 }
